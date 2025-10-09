@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello! / Olá! Eu sou o Hydrzz
+
+## 🇧🇷 Sobre mim
+🎓 **Estudante** de Análise e Desenvolvimento de Sistemas na [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/).  
+🏦 Experiência na **área bancária**.  
+💻 Focado em aprender **Java**, **C** e **Prompt Engineering**.  
+🎮 **Hobbies:** Online games (especialmente WoW, Overwatch 2, Diablo 4).
+
+## 🇺🇸 About me
+🎓 **Student** in Systems Analysis and Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/).  
+🏦 Background in the **banking sector**.  
+💻 Currently learning **Java**, **C**, and **Prompt Engineering**.  
+🎮 **Hobbies:** Online games (especially WoW, Overwatch 2, Diablo 4).
+
+---
+
+### 🎮 Currently Playing / Jogando atualmente
+- **WoW Legion Remix**
+
+---
 
 <!--
-**Hydrzz/Hydrzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to add your social links or highlight any cool projects below!
+Adicione seus links de redes sociais ou projetos favoritos abaixo!
 -->
+
+---
+
+![Hydrzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hydrzz&show_icons=true&theme=radical)
