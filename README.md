@@ -4,18 +4,12 @@
 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas na [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/).  
 🏦 Experiência na **área bancária**.  
 💻 Focado em aprender **Java**, **C** e **Prompt Engineering**.  
-🎮 **Hobbies:** Online games (especialmente WoW, Overwatch 2, Diablo 4).
 
 ## 🇺🇸 About me
 🎓 **Student** in Systems Analysis and Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/).  
 🏦 Background in the **banking sector**.  
 💻 Currently learning **Java**, **C**, and **Prompt Engineering**.  
 🎮 **Hobbies:** Online games (especially WoW, Overwatch 2, Diablo 4).
-
----
-
-### 🎮 Currently Playing / Jogando atualmente
-- **WoW Legion Remix**
 
 ---
 
