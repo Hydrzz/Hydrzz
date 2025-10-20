@@ -9,7 +9,6 @@
 🎓 **Student** in Systems Analysis and Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/).  
 🏦 Background in the **banking sector**.  
 💻 Currently learning **Java**, **C**, and **Prompt Engineering**.  
-🎮 **Hobbies:** Online games (especially WoW, Overwatch 2, Diablo 4).
 
 ---
 
